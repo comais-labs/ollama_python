@@ -99,11 +99,3 @@ Após rodar o script com um arquivo de exemplo, o seguinte resultado poderá ser
 ```
 
 ---
-
-## Licença
-Este projeto é licenciado sob a **MIT License**. Sinta-se à vontade para utilizá-lo, modificá-lo e compartilhá-lo.
-
----
-
-## Contato
-Caso tenha dúvidas ou sugestões, entre em contato por e-mail: [seuemail@example.com](mailto:seuemail@example.com)
